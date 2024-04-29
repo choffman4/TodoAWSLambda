@@ -1,0 +1,7 @@
+version: '3.9'
+services: 
+  
+  post_todo:
+    build: ./
+    image: post_todo:1.0
+  

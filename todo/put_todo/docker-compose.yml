@@ -1,0 +1,7 @@
+version: '3.9'
+services: 
+  
+  put_todo:
+    build: ./
+    image: put_todo:1.0
+  

@@ -1,0 +1,7 @@
+version: '3.9'
+services: 
+  
+  delete_todo:
+    build: ./
+    image: delete_todo:1.0
+  

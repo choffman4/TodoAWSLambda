@@ -1,0 +1,1 @@
+{"errorMessage": "'name'", "errorType": "KeyError", "requestId": "4ecf5e29-9933-404e-825e-36515d61168b", "stackTrace": ["  File \"/var/task/app.py\", line 17, in lambda_handler\n    name = event[\"name\"]\n"]}

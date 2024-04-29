@@ -1,0 +1,7 @@
+version: '3.9'
+services: 
+  
+  put_person:
+    build: ./
+    image: put_person:1.0
+  

@@ -1,0 +1,7 @@
+version: '3.9'
+services: 
+  
+  get_todo:
+    build: ./
+    image: get_todo:1.0
+  
